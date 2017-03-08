@@ -111,10 +111,10 @@ The status code serves as a quick summary, if the client desires more informatio
 
 Here's a quick summary of the status codes categories:
 
-* 2XX: Successful status codes
-* 3XX: Redirection
-* 4XX: Client Error (the client submitted an invalid request)
-* 5XX: Server Error (not client's fault, the server has an error)
+* **2XX**: Successful status codes
+* **3XX**: Redirection
+* **4XX**: Client Error (the client submitted an invalid request)
+* **5XX**: Server Error (not client's fault, the server has an error)
 
 ## Headers
 
