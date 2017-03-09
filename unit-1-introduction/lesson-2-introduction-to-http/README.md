@@ -1,5 +1,3 @@
-# Introduction to HTTP
-
 HTTP is the foundation of the World Wide Web. It's one of the most important protocols for developers to understand. If you master HTTP you'll have an advantage in the Web and APIs world. Whenever things get tough (security breaches, performance improvements, etc), having a deep understanding of how things work internally will make the difference.
 
 HTTP is a stateless, text based protocol, which makes it easy to understand and debug.

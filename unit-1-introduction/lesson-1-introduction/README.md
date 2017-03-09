@@ -1,5 +1,3 @@
-# Introduction
-
 Welcome to our Flask Tutorial! This is a comprehensive step by step guide that will walk you through the process of creating a real life website using Python and the Flask Web Framework.
 
 **This course is part of our [online Advanced Python Programming Course](https://rmotr.com/advanced-python-programming). If you're looking to learn Advanced Python concepts in an online classroom with real instructors and mentors, check out all our [online Python Courses](https://rmotr.com/#our_courses)**
