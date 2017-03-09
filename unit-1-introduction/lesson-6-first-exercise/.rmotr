@@ -1,0 +1,5 @@
+type = "external_assignment"
+uuid = "4fa16d68-0554-467a-ac5f-ea851649b030"
+name = "First Exercise"
+assignment_repo_org = "rmotr-individual-assignments"
+assignment_repo_name = "first-flask-assignment"
