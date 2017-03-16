@@ -1,0 +1,5 @@
+uuid = "3faa7b6b-081f-4ac5-b2d0-2e072a0fc34a"
+type = "external_assignment"
+name = "Assignment with Databases"
+assignment_repo_org = "rmotr-individual-assignments"
+assignment_repo_name = "flask-request-storage"
