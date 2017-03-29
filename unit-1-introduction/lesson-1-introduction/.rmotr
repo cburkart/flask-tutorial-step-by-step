@@ -1,4 +1,5 @@
 type = "reading"
 uuid = "ca933f6c-e373-45b3-a6ba-604b4b54441d"
 name = "Course Introduction"
+description = "Flask Tutorial Step by Step - Introduction to the course"
 youtube_id = "goiE5Dlobxs"
