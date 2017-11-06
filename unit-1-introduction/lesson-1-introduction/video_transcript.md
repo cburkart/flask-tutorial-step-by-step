@@ -1,47 +1,43 @@
-welcome to our flotsam sort of this is that by step guide will walk you through the process of creating a real tie from power website using the flask web framework 
+Welcome to our Flask Tutorial. This is a step-by-step guide that will walk you through the process of creating a real-life Python-powered website using the Flask web framework. 
 
-will serve really simple sending up the bombing of her implication will go up to including static files databases and templating hearings 
+We'll start really simple, setting up the environment of our application and we'll go up to including the static files databases and template inheritance.
 
-hello my name is in the eye when I'm in the structure of 
+Hello my name is Santiago and I'm an instructor at RMOTR.com 
 
-the remoter is an online programming but can specialize in python web development and that I signed 
+RMOTR is an online programming boot camp specializing in Python, web development, and data science.
 
-other motor you have a real classes with real teachers and classmates but you do it from the comfort of your home 
+At RMOTR you have real classes with real teachers and classmates, but you do it from the comfort of your home.
 
-as we always say you won't be a pro basketball player she's proceeding watching the NBA gotta go out and practice 
+As we always say you won't be a pro basketball player just by sitting and watching the NBA; you gotta go out and practice. 
 
-same thing happens with programming the only way to learn is by sitting and coding 
+The same thing happens with programming: the only way to learn is by sitting and coding.
 
-of course that's hard to do is just by yourself that's why we have built an online book come guided by a real people willing to help you 
+Of course, that's hard to do just by yourself. That's why we've built an online boot camp guided by a real people willing to help you.
 
-fox is one of the most popular piped in web frameworks 
+Flask is one of the most popular piped in web frameworks. It's used worldwide to power Cork top-level websites like Pinterest, LinkedIn, and Reddit. 
 
-its use worldwide to Cork top level where it says IP to rest leaping I read it 
+It's also one of the most popular choices to create RESTful APIs to interact with mobile devices and the Internet of Things. 
 
-it's also one of the most popular choices to create dress play P. eyes to instruct with mobile devices on the internet thinks 
+The reason we created this course is that we saw our own students struggling over and over with the same topics.
 
-the reason we created this course is that we still are honest you've been struggling all fern over with the same copies 
+Setting up an application, understanding the concept behind HTTP, taking your first step with Flask, among many others.
 
-sending up an obligation understanding the concept behind it should be giving your first step with lost among many alters 
+So we decided it was a good idea to put it all together in the form of a comprehensive step-by-step tutorial.
 
-so we decided was a good idea to put it all together in the form of a comprehensive step by step tutorial 
+As we also do with our courses we will focus on teaching concepts so you can then apply them to other web frameworks and technologies. 
 
-US we also do with our courses school focus on teaching concepts so you can then applying and all their web frameworks and ideologies 
+This is where I'll start by explaining to you the foundations behind how the web works and HTTP, the protocol behind the internet.
 
-this is our authority by explaining you dig foundations behind how the world works and HDB that protocol behind it internet 
+We will also walk you through the process of setting up your own environment using Cloud9, installing Flask dependencies, and kickstarting your own app. 
 
-we will also walk you through the process of setting up your own informing you see clown nine it's only plus abandoned sees I'm kick starting your own 
+This tutorial is divided into a set of comprehensive steps that start from the most basic Flask app you can build and goes as far as connecting to a real SQL database, working with statis files, and templates. 
 
-this tutorial is to find a set of comprehensive steps but start from the most basic flask up you can build and goes us far as connecting to a real sequel database working with sonic violence and pain 
+All the concepts that you need to create your own web application. 
 
-all the causes that you need to create your own web obligation 
+Finally, if you're doing this course in our free platform, learn.rmotr.com, you'll have access to explanations and summaries for each video.
 
-finally if you're doing this course in our fate but form learned at remote it'd come you have artistic explanations and summaries for 
+Transcripts and real coding exercises hosted on GitHub, where you can fork the repo, solve the assignment using Cloud9, and push your solution to keep building your own personal portfolio.
 
-transcripts unreal quality exercises hopes to get help where you come forth to ripple sole the sign in using clown nine I'm pushing your solution to 
+If you're a student at RMOTR you will have access to mentors and instructors in case you have questions at any part of this tutorial.
 
-building your own personal portfolio 
-
-if you're sitting a promoter you will have access to mentors and structures in case you have questions at any part of this tutorial 
-
-let's get started building a real live application you seem five and then plots please submit your comments and don't forget to check our courses at three motor dot com
+Let's get started building a real live application using Python and Flask, and don't forget to check out our courses at rmotr.com.
