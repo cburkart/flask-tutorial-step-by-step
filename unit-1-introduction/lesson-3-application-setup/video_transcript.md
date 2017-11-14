@@ -1,73 +1,45 @@
-it's 
+Welcome to a new video of our "Web Development with Flask" tutorial.
 
-well those on your vehicle for web development with phlox tutorial in this video we're going to focus on the set up of double gauge will create a virtual environment uninstall the classic fantasy everything that we need to get our obligation on rye 
+In this video we're going to focus on the set up of the application. We will create a virtual environment and install the Flask dependencies; everything that we need to get our application running. 
 
-I want to focus on their running applications so you can try things by yourself and you know how 
+I want to focus on the running applications so you can try things by yourself and you don't have to wait for the following videos, in which of course we will explain what is going on and how the application actually works. So, let's get started.
 
-wait for the following these you which of course we will explain what is going on and how that location 
+As you guys know, all the content of this tutorial is going to be free and open source; you can access all of it on GitHub.
 
-actually works so let's get started 
+In this case I have created a Cloud9 workspace so you can have access to all the work that we do in after the videos are done.
 
-as you guys know all the content of the story is going to be free and open source you can access all of its own 
+What we have to do, the first thing we have to do, is create a virtual environment to install a flask dependencies. 
 
-in this case I have created a clowning workspaces so you can how boxes of all the work that we too in a third to Peter's heart attack 
+I'm going to do `mkvirtualenv`, the command to create a virtual environment, and I will decide a name that I'd like; in this case I'm just going to use `flask-introduction`. 
 
-what we have to do the first thing we have to do is create a fertile environment to extol a flask abandons 
+Once the `virtualenv` is created you will see that it is active because you will see that flask-introduction that I gave at the start of my prompt.
 
-I'm going to do MK their clan to commence agreed others on mom and 
+I will now install the Flask dependencies. 
 
-and I will decide I mean that I'd like in this case which is going to use clock 
+You will see that these repository also contains a requirements file that basically lists all the requirements for this particular application.
 
-introduction 
+If you, instead of installing Flask directy, want to use the requirements file, you can just use a command like `pip install -r requirements.txt`
 
-once the vehicle and it is created you will see that it is octave because you will see that plus introduction 
+It's going to be similar--the good thing about the requirements file is that we can list the particular versions we want to install from the library.
 
-and that a K. on this heart of my prompt 
+Now that we have Flask installed we need to run our application. 
 
-I will now he's told the clocks dependency 
+The main file of this repository is going to be the `run_app` file, all right? You can find it you inside of the 'flask-introduction' directory. Down there you see run `application.py`
 
-you will see that these reports are you also contains a requirements file that basically leaves all the requirements for these particular application 
+I will just do--with my virtual environment active--I will just do `python` ... `.py`
 
-if you instead of installing clathrate so we want to use our requirements file you can just use a command like 
+After I do this you guys will see that the console is taken over by Flask--by the Flask server--and you will see soon information messages showing that the application is running. 
 
-it is dole lines are on their requirements 
+After the application is running I can just go to a particular URL...and open it...and I will see that the application is actually going open. 
 
-the GXT file 
+If I open the library and I see that first application that have I see this "Welcome to our library" message: that is the same one but I'm seeing right here.
 
-it's good to be seen it are the good thing about the requirements while the weekend least particular versions we want us all from a library 
+Again, I don't want to focus on the details, and in terms of this particular application I just want you guys to have it running.
 
-now that we have floss install we need to run our obligation 
+Every time you access this resource you will get a new log file--or a log *line*, sorry, in here.
 
-the main file please repost or is going to be the runner up file right you can find it you side of the plus introduction directory 
+There are a few things interesting down here after we import our application, we are setting the debug mode to true and we are making some configurations so it can run smoothly on different platforms.
 
-down there you see run obligation that pie 
+You might have different issues and you will have to try different configurations for this particular app, but in general terms it's going to be simple to have it running just with these default settings.
 
-I will shift to one with my virtual environment active I was just too I thin 
-
-but by 
-
-after I do these you guys will see that the console is taken over by plus by the glass server and you will see soon %HESITATION information message is showing that the obligation he's 
-
-after delegation is running I conscious go to a particular your health 
-
-I'm open to eat and I will see that delegation is actually going open if I open the library and I see that first obligation that how I see these welcome to our library Mrs 
-
-that is the same one but I'm seeing right here 
-
-again I will don't want to focus on the details I returns with these particular obligation I just want you guys to 
-
-Ronnie 
-
-every time you access these resources you will get on you log file a localized Tory each 
-
-there are a few things interesting down here after we import our application we are sending the debug mode to true and we are making some coffee rations so you can 
-
-smoothly 
-
-what 
-
-%HESITATION you might have different nations and you will have to try different configurations for his part 
-
-if you're up but in general terms is going to be simple to have it vanishes with these default settings 
-
-join us in the following video to understand how floss complication works and create your own work
+Join us in the following video to understand how Flask applications work and create your own website.
